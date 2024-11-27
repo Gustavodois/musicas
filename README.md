@@ -1,2 +1,2 @@
 # musicas
- minha lista de úusicas favoritas
+ minha lista de musicas favoritas
